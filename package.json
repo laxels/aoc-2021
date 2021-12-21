@@ -1,0 +1,11 @@
+{
+  "name": "aoc-2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "lodash": "^4.17.21",
+    "mnemonist": "^0.39.0"
+  }
+}
